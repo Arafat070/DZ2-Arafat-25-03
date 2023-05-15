@@ -1,0 +1,36 @@
+.box {
+    position: relative;
+    height: 500px;
+    width: 500px;
+    background-color: black;
+    border: 1px solid;
+}
+
+.block {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border: 1px solid;
+}
+.one{
+    position: relative;
+    width: 50px;
+    left: 800px;
+    bottom: 500px;
+    display: flex;
+    justify-content: center;
+}
+.one2 {
+    position: relative;
+    width: 50px;
+    left: 810px;
+    bottom: 495px;
+    display: flex;
+    justify-content: center;
+}
+.time {
+    position: relative;
+    left: 570px;
+    bottom: 450px;
+}
